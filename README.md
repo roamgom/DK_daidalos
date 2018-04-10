@@ -47,9 +47,9 @@ Dust sensor: GP2Y1014AU0F
 
 > Image
 
-![](img_src/IMG_3908.JPG)
-![](img_src/IMG_7970.JPG)
-![](img_src/IMG_1935.JPG)
-![](img_src/IMG_0610.PNG)
+![](img_src/IMG_3908.JPG =100x100)
+![](img_src/IMG_7970.JPG =100x100)
+![](img_src/IMG_1935.JPG =100x100)
+![](img_src/IMG_0610.PNG =50x100)
 
 
