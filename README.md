@@ -47,7 +47,7 @@ Dust sensor: GP2Y1014AU0F
 
 > Image
 
-<img src="img_src/IMG_3908.JPG" width='100'>
-<img src="img_src/IMG_7970.JPG" width='100'>
-<img src="img_src/IMG_1935.JPG" width='100'>
-<img src="img_src/IMG_0610.PNG" width='50'>
+<img src="img_src/IMG_3908.JPG" width='300'>
+<img src="img_src/IMG_7970.JPG" width='300'>
+<img src="img_src/IMG_1935.JPG" width='300'>
+<img src="img_src/IMG_0610.PNG" width='200'>
